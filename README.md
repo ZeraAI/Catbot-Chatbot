@@ -17,8 +17,6 @@ Sample Dialogues/questions:
 - I hate/dislike {something}
 
 # Sample Runs
-![A test image](Images/Sample_Dialogue_1.png)
-
 
 
 
