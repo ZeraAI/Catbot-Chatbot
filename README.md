@@ -1,5 +1,16 @@
-# Catbot
-CatBot is a rules based chatbot built from scratch that gives user facts and jokes about cats from a knowledge base. It uses NLP techniques such as cosine similarity, user input parsing, information retrieval, etc. The chatbot also maintains a user model of the user's name, age, likes, and dislikes based on previous conversations. 
+Welcome to Catbot! 
+-
+Where all your dreams and happiness of learning about cat jokes and cat facts are all gathered in 
+one place!
+To get started, let us first begin by grabbing a close friend or pet, sit down together, and start 
+learning about these mysterious creatures called ‘cats’.
+Our chatbot has been created from scratch. 
+You should expect reasonable responses given reasonable input. And we hope that you enjoy our 
+program.
+
+
+# Catbot Chatbot
+CatBot Chatbot is a rules based chatbot built from scratch that gives user facts and jokes about cats from a knowledge base. It uses NLP techniques such as cosine similarity, user input parsing, information retrieval, etc. The chatbot also maintains a user model of the user's name, age, likes, and dislikes based on previous conversations. 
 
 # Installation
 Easy installation, just clone the project and download the necessary libraries/dependencies for python
@@ -17,8 +28,9 @@ Sample Dialogues/questions:
 - I hate/dislike {something}
 
 # Sample Runs
+located inside Catbot_report.pdf
 
 
 
 
-
+April 10, 2022
