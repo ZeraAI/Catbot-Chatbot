@@ -32,9 +32,9 @@ Sample Dialogues/questions:
 ![Catbot Chatbot](https://i.gyazo.com/52cc358b428230028d89b66c43024dcb.png)
 
 # Sample Runs
-(ﾐΦ ﻌ Φﾐ)∫  Also located inside Catbot_report.pdf 
+(ﾐΦ ﻌ Φﾐ)∫  Also located inside [Catbot_report.pdf](https://github.com/ZeraAI/Catbot-Chatbot/blob/main/Catbot%20report.pdf)
 
 ![image](https://user-images.githubusercontent.com/43397999/181815866-124a6961-27da-4948-88df-808a9c918041.png)
 
-# This is a collab project with aashritha2001
+# This is a collab project with [aashritha2001](https://github.com/aashritha2001)
 April 10, 2022
