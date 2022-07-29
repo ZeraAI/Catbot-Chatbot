@@ -8,6 +8,7 @@ Our chatbot has been created from scratch.
 You should expect reasonable responses given reasonable input. And we hope that you enjoy our 
 program.
 
+![Catbot Chatbot](https://gyazo.com/973b12b51d851d3a29a6df5973c3e1d0)
 
 # Catbot Chatbot
 CatBot Chatbot is a rules based chatbot built from scratch that gives user facts and jokes about cats from a knowledge base. It uses NLP techniques such as cosine similarity, user input parsing, information retrieval, etc. The chatbot also maintains a user model of the user's name, age, likes, and dislikes based on previous conversations. 
